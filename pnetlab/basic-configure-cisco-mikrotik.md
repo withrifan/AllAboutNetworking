@@ -19,13 +19,6 @@
 
 ---
 
-## MikroTik
-
-configure IP address
-
-    ip add add add=192.168.1.1/30 interface=ether1
-    ip add add add=192.168.2.1/24 interface=ether2
-
 add static route
 
     ip route add dst-address=192.168.3.0/24 gateway=192.168.1.2
