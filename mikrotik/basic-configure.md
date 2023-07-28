@@ -15,8 +15,6 @@
     user set 0 disabled=yes
     user print
 
-##
-
 ## Config IP Address
 
 ip address add address=<x.x.x.x/x> interface=<interface/ethernet>
